@@ -1,0 +1,15 @@
+The linux assignment is present in submit.js file and the json is in submit.json file.
+It writes to log,txt file whether the module was successfully installed or not.
+The shell script which is used by the js file is present in submit.sh file.
+
+
+Out of the coding questions I have solved 2.
+Problem 1: https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
+Proof in the image "root to leaf paths with sum"
+code: power.cpp
+
+Problem 2: https://www.interviewbit.com/problems/implement-power-function/
+Proof in the image "implement power function"
+code: leaf.cpp
+
+The answers to the blockchain questions are present in the blockchain.txt file

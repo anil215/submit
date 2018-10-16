@@ -1,0 +1,15 @@
+{
+  "name": "steem_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "steem_deposits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dsteem": "^0.10.1",
+    "shelljs": "^0.8.2"
+  }
+}

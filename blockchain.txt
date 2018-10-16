@@ -1,0 +1,32 @@
+Problem 1: Why is there a lot of hype around blockchain ?
+Answer: I feel there is a lot of hype around blockchain because they have the power of changing how the software industry is currently
+        functioning. Since the data is present on a public ledger and acceptance of a transaction is validated by a large number of
+        peers, there is no possibility of a single malicious party tampering with the data. And since the ledger is public , anyone can
+        view the changes done to the current state. Blockchains are highly available , so no one has the power of bringing them.
+
+Problem 2: What got you fascinated with blockchain and why?
+Answer:  The reason that the blockchain is not controlled by a single entity was the primary reason why i was inclined to blockchain.
+         As a beginner software developer , you don't have to be worried much about the scalability of your application , as blockchain
+         depending on which is chosen is inherently scalable. Though there is much latency as compared to an application running on a
+         centralised entity, you cannot have the best of both worlds, privacy of the data vs latency. Though blockchains are public
+         but until i know your address which is hard to guess, you are sure that your data is protected. The latency issue is also not
+         a prominent issue now when you have blockchains like EOS with their delegated proof of stake consensus protocol claiming upto
+         4000 txs per second. As far as the storage of the data is concerned you can store it on chain which is expensive or you can
+         store it in a decentralised cloud like IPFS which ensures that your data is persisted given how may peers have the data available
+         in them.
+
+Problem 3: What is the most pressing challenge in blockchain?
+Answer:  The most pressing challenge which i feel blockchains are currently suffering is the number of transactions they are able to do per
+         second. The main reason behind this problem is there is not a single entity validating the transactions , it is added to the
+         immutable chain once sufficient no of peers have validated the transaction. New Consensus protocols like delegated proof of stake
+         are aiming to solve this issue but they also by design feel centralised though now it is not just a single entity.
+
+Bonus 4: Thoughts PoW vs. PoS?
+Answer:  PoW which stands for Proof Of Work is a consensus protocol which allows the peer who is able to solve a cryptographical puzzle
+         first the opportunity to create a block. As we know each block contains transactions so this way of competing where for solving
+         puzzle people are utilising their machine's computing power in essence ensures that there is no person controlling the chain.
+         The disadvantage of this is that electricity is simply wasted as the computation done is waste.
+         PoS aims to solve this where now instead of solving the puzzle , peers invest their stake of crypto in the formation of the block
+         and get rewarded if the block is formed while heavily penalised if the block was invalid.
+
+         
